@@ -1,4 +1,4 @@
 push:
 	git add .
-	git commit -m "Assembly Archive Update"
+	git commit -m "Hexplore Update"
 	git push
